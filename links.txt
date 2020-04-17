@@ -3,3 +3,5 @@ https://www.electronicshub.org/raspberry-pi-color-sensor-tutorial/
 
 
 https://cdn-learn.adafruit.com/downloads/pdf/adafruit-color-sensors.pdf
+
+https://learn.adafruit.com/adafruit-color-sensors/python-circuitpython
