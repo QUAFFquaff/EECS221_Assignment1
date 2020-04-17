@@ -7,3 +7,16 @@ https://cdn-learn.adafruit.com/downloads/pdf/adafruit-color-sensors.pdf
 https://learn.adafruit.com/adafruit-color-sensors/python-circuitpython
 
 https://maker.pro/raspberry-pi/tutorial/how-to-connect-tcs34725-rgb-color-sensor-with-raspberry-pi-zero-w
+
+
+Average Color: (191.25, 95.625, 0.0)
+Now flash LEDs
+blink  red
+Average Color: (159.375, 0.0, 0.0)
+Now flash LEDs
+blink  red
+Average Color: (0.0, 0.0, 0.0)
+Now flash LEDs
+same value, not flashing
+Average Color: (223.125, 159.375, 63.75)
+Now flash LEDs
